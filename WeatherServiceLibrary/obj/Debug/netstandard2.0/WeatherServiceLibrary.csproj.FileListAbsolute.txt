@@ -1,0 +1,8 @@
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\obj\Debug\netstandard2.0\WeatherServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\obj\Debug\netstandard2.0\WeatherServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\obj\Debug\netstandard2.0\WeatherServiceLibrary.AssemblyInfo.cs
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\bin\Debug\netstandard2.0\WeatherServiceLibrary.deps.json
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\bin\Debug\netstandard2.0\WeatherServiceLibrary.dll
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\bin\Debug\netstandard2.0\WeatherServiceLibrary.pdb
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\obj\Debug\netstandard2.0\WeatherServiceLibrary.dll
+C:\Users\sibusiso\Documents\WeatherServiceLibrary\obj\Debug\netstandard2.0\WeatherServiceLibrary.pdb

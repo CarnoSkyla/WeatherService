@@ -1,0 +1,14 @@
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.deps.json
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.runtimeconfig.json
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.runtimeconfig.dev.json
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.dll
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.pdb
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.csprojAssemblyReference.cache
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.AssemblyInfoInputs.cache
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.AssemblyInfo.cs
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.dll
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.pdb
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherServiceLibrary.dll
+C:\Users\sibusiso\Documents\WeatherService\bin\Debug\netcoreapp2.1\WeatherServiceLibrary.pdb
+C:\Users\sibusiso\Documents\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.csproj.CopyComplete
